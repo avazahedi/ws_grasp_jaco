@@ -1,0 +1,12 @@
+[submodule "deep_grasp_demo"]
+	path = deep_grasp_demo
+	url = git@github.com:avazahedi/deep_grasp_demo.git
+	branch = jaco_demo
+[submodule "moveit_task_constructor"]
+	path = moveit_task_constructor
+	url = git@github.com:avazahedi/moveit_task_constructor.git
+	branch = jaco_demo
+[submodule "jaco_base"]
+	path = jaco_base
+	url = git@github.com:argallab/jaco_base.git
+	branch = msr23-grasp
